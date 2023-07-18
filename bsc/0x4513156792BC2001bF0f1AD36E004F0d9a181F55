@@ -1,0 +1,21 @@
+{
+
+"name": "OCT Token",
+
+"website": "https://OCT.pro",
+
+"description": "game ecological token.",
+
+"explorer": "https://bscscan.com/token/0x4513156792BC2001bF0f1AD36E004F0d9a181F55",
+
+"type": "BEP20",
+
+"symbol": "TPT",
+
+"decimals": 6,
+
+"status": "active",
+
+"id": "0x4513156792BC2001bF0f1AD36E004F0d9a181F55"
+
+}
